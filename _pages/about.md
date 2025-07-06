@@ -11,8 +11,7 @@ Hello! I am a B.S. Bioengineering student at the University of Illinois Urbana-C
 
 I am broadly interested in the use of artificial intelligence in the biomedical sciences. Specifically, I have developed computational tools and AI algorithms for cancer diagnosis on histopathology images. I focus on improving the robustness of AI models on diverse, multi-institutional patient cohorts and enhancing the trustworthiness of automated diagnoses.
 
-Academic Interests
-======
+# Academic Interests
 - AI for biomedical discovery, clinical translation
 - Computational modeling of diseases
 - Domain adaptation and out-of-distribution shifts
@@ -20,8 +19,10 @@ Academic Interests
 - Cell and tissue engineering
 - 3D bioprinting
 
-Research Projects
-======
+<a name="research"></a>
+# Research Projects
+
+Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people/rxb) and [Dr. Kianoush Falahkheirkhah](https://www.linkedin.com/in/kianoush-falahkheirkhah).
 
 ***Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation*** (2023)
 
@@ -38,17 +39,16 @@ GitHub:
 Summary:
 
 
-Other Projects
-======
+# Other Projects
 
 ***CreAlgae: Fabrication of Sustainable Bioplastics from Algae***
 
 Summary:
 
-Science Communication and Writing
-======
+<a name="scicomm"></a>
+# Science Communication and Writing
 
-3DHEALS
+## 3DHEALS
 ------
 
 I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
@@ -66,7 +66,6 @@ I am the Editorial Intern for 3DHEALS, a community that connects innovators and 
 - [In Silico Simulation for Medtech and Biopharma](https://3dheals.com/event-recap-in-silico-simulation-for-medtech-and-biopharma/) 04 Jul. 2024
 - [Innovation in Melt-Electrowriting (MEW) & 3D Printing](https://3dheals.com/event-recap-innovation-in-melt-electrowriting-mew-3d-printing/) 15 Jun. 2024
 
-Engineering Ambassadors
-------
+## Engineering Ambassadors
 
 I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger.illinois.edu/), a professional outreach program that provides engaging, hands-on presentations and activities on engineering topics to K-12 students in the Champaign County area. I have developed technical communication and teaching skills thanks to this program and represented our chapter at the [Engineering Ambassadors Network conference](https://www.engineeringambassadorsnetwork.org/) in 2025. Advised by [Dr. Jenny Amos](https://bioengineering.illinois.edu/people/jamos) and [Joan Brown](https://www.linkedin.com/in/joan-brown-73738215a).
