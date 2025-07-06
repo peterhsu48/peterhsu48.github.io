@@ -9,17 +9,16 @@ redirect_from:
 
 Hello! I am a B.S. Bioengineering student at the University of Illinois Urbana-Champaign with a minor in Computer Science.
 
-I am broadly interested in the use of artificial intelligence in the biomedical sciences. Specifically, I have developed computational tools and AI algorithms for cancer diagnosis on histopathology images. I focus on improving the robustness of AI models on diverse, multi-institutional patient cohorts and enhancing the trustworthiness of automated diagnoses.
+I am interested in creating artificial intelligence systems to advance healthcare and accelerate biomedical discoveries. Specifically, I have developed computational tools and AI algorithms for cancer diagnosis on histopathology images. I enjoy working on problems involving the robustness of AI models on diverse, multi-institutional patient cohorts and the trustworthiness of automated diagnoses.
 
 # Academic Interests
-- AI for biomedical discovery, clinical translation
+- Biomedical AI
 - Computational modeling of diseases
-- Domain adaptation and out-of-distribution shifts
+- Out-of-distribution shifts
 - Histopathology, spatial transcriptomics
 - Cell and tissue engineering
 - 3D bioprinting
 
-<a name="research"></a>
 # Research Projects
 
 Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people/rxb) and [Dr. Kianoush Falahkheirkhah](https://www.linkedin.com/in/kianoush-falahkheirkhah).
@@ -45,7 +44,6 @@ Summary:
 
 Summary:
 
-<a name="scicomm"></a>
 # Science Communication and Writing
 
 ## 3DHEALS
