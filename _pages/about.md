@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,7 +25,7 @@ Research Projects
 
 ***Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation*** (2023)
 
-GitHub: https://github.com/peterhsu48/vit-densenet
+GitHub: [https://github.com/peterhsu48/vit-densenet](https://github.com/peterhsu48/vit-densenet)
 
 Poster:
 
@@ -51,7 +51,7 @@ Science Communication and Writing
 3DHEALS
 ------
 
-I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing. I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
+I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
 
 - [Artificial Intelligence Updates For 3D Printing and Bioprinting](https://3dheals.com/event-recap-artificial-intelligence-updates-for-3d-printing-and-bioprinting/) 29 Jun. 2025 
 - [Microfluidic Devices and 3D Printing](https://3dheals.com/event-recap-microfluidic-devices-and-3d-printing/) 01 May 2025 
@@ -69,4 +69,4 @@ I am the Editorial Intern for 3DHEALS, a community that connects innovators and 
 Engineering Ambassadors
 ------
 
-I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger.illinois.edu/), a professional outreach program that provides engaging, hands-on presentations and activities on engineering topics to K-12 students in the Champaign County area. I have developed technical communication and teaching skills thanks to this program and represented our chapter at the [Engineering Ambassadors Network conference](https://www.engineeringambassadorsnetwork.org/) in 2025.
+I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger.illinois.edu/), a professional outreach program that provides engaging, hands-on presentations and activities on engineering topics to K-12 students in the Champaign County area. I have developed technical communication and teaching skills thanks to this program and represented our chapter at the [Engineering Ambassadors Network conference](https://www.engineeringambassadorsnetwork.org/) in 2025. Advised by [Dr. Jenny Amos](https://bioengineering.illinois.edu/people/jamos) and [Joan Brown](https://www.linkedin.com/in/joan-brown-73738215a).
