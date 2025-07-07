@@ -70,3 +70,6 @@ I am the Editorial Intern for 3DHEALS, a community that connects innovators and 
 <img src="../images/ealogo.jpg" alt="drawing" width="200"/>
 
 I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger.illinois.edu/), a professional outreach program that provides engaging, hands-on presentations and activities on engineering topics to K-12 students in the Champaign County area. I have developed technical communication and teaching skills thanks to this program and represented our chapter at the [Engineering Ambassadors Network conference](https://www.engineeringambassadorsnetwork.org/) in 2025. Advised by [Dr. Jenny Amos](https://bioengineering.illinois.edu/people/jamos) and [Joan Brown](https://www.linkedin.com/in/joan-brown-73738215a).
+
+Featured work (all done in collaboration with other Ambassadors):
+- [Introduction to 3D Printing and Design](../files/3DP.pdf) (Presented to an elementary school students in Fall 2024)
