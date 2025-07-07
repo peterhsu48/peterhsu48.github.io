@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a B.S. Bioengineering student at the University of Illinois Urbana-Champaign with a minor in Computer Science.
+Hello! I am a Bioengineering undergraduate at the University of Illinois Urbana-Champaign with a minor in Computer Science.
 
-I am interested in creating artificial intelligence systems to advance healthcare and accelerate biomedical discoveries. Specifically, I have developed computational tools and AI algorithms for cancer diagnosis on histopathology images. I enjoy working on problems involving the robustness of AI models on diverse, multi-institutional patient cohorts and the trustworthiness of automated diagnoses.
+I am interested in creating artificial intelligence systems to advance healthcare and accelerate biomedical discoveries. Specifically, I have developed computational tools and AI algorithms for cancer diagnosis on histopathology images. I enjoy working on improving the robustness of AI models on diverse, multi-institutional patient cohorts and enhancing the trustworthiness of automated diagnoses.
 
 # Academic Interests
 - Biomedical AI
@@ -47,9 +47,10 @@ Summary:
 # Science Communication and Writing
 
 ## 3DHEALS
-------
 
-I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
+![3DHEALS Logo](../images/3Dhealslogo.png)
+
+I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing, led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
 
 - [Artificial Intelligence Updates For 3D Printing and Bioprinting](https://3dheals.com/event-recap-artificial-intelligence-updates-for-3d-printing-and-bioprinting/) 29 Jun. 2025 
 - [Microfluidic Devices and 3D Printing](https://3dheals.com/event-recap-microfluidic-devices-and-3d-printing/) 01 May 2025 
@@ -65,5 +66,7 @@ I am the Editorial Intern for 3DHEALS, a community that connects innovators and 
 - [Innovation in Melt-Electrowriting (MEW) & 3D Printing](https://3dheals.com/event-recap-innovation-in-melt-electrowriting-mew-3d-printing/) 15 Jun. 2024
 
 ## Engineering Ambassadors
+
+<img src="../images/ealogo.jpg" alt="drawing" width="200"/>
 
 I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger.illinois.edu/), a professional outreach program that provides engaging, hands-on presentations and activities on engineering topics to K-12 students in the Champaign County area. I have developed technical communication and teaching skills thanks to this program and represented our chapter at the [Engineering Ambassadors Network conference](https://www.engineeringambassadorsnetwork.org/) in 2025. Advised by [Dr. Jenny Amos](https://bioengineering.illinois.edu/people/jamos) and [Joan Brown](https://www.linkedin.com/in/joan-brown-73738215a).
