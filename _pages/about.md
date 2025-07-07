@@ -48,7 +48,7 @@ Summary:
 
 ## 3DHEALS
 
-![3DHEALS Logo](../images/3Dhealslogo.png)
+<img src="../images/3dhealslogo.png" alt="drawing" width="200"/>
 
 I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing, led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
 
