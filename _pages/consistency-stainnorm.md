@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Stain Normalization of Lymph Node Histology Images using Consistency Models"
+title: ""
 permalink: /consistency-stainnorm/
 author_profile: true
 ---
@@ -12,9 +12,23 @@ author_profile: true
 
 <h2>Introduction</h2>
 
+<img src="../images/Figure1Cropped.png"/>
+
 <h2>Prior Work</h2>
 
+<h3>Stain Normalization</h3>
+
+<h3>Diffusion Models</h3>
+
+<h3>Consistency Models</h3>
+
 <h2>Methods</h2>
+
+<h3>Dataset</h3>
+
+<h3>Metrics</h3>
+
+<h3>Implementation</h3>
 
 <h2>Results</h2>
 
