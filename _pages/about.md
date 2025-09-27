@@ -23,17 +23,17 @@ I am interested in creating artificial intelligence systems to advance healthcar
 
 Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people/rxb) and [Dr. Kianoush Falahkheirkhah](https://www.linkedin.com/in/kianoush-falahkheirkhah).
 
+***Stain Normalization of Lymph Node Histology Images using Consistency Models*** (2024)
+
+GitHub:
+
+Summary:
+
 ***Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation*** (2023)
 
 GitHub: [https://github.com/peterhsu48/vit-densenet](https://github.com/peterhsu48/vit-densenet)
 
 Poster:
-
-Summary:
-
-***Consistency Models for Rapid Stain Normalization*** (2024)
-
-GitHub:
 
 Summary:
 
@@ -73,4 +73,4 @@ I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger
 
 Featured work (all done in collaboration with other Ambassadors):
 <img src="../images/3DP.jpg" alt="drawing" width="300"/>
-- [Introduction to 3D Printing and Design](../files/3DP.pdf) (Presented to elementary school students in Fall 2024)
+[Introduction to 3D Printing and Design](../files/3DP.pdf) (Presented to elementary school students in Fall 2024)
