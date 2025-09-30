@@ -42,7 +42,7 @@ Consistency models (CM) [4] address the slow speeds of diffusion models by using
 
 $$f_\theta(\mathbf{x},t)=c_{skip}(t)\mathbf{x}+c_{out}(t)F_\theta(\mathbf{x},t)$$
 
-where \\f_\theta\\ is the consistency model, $\mathbf{x}$ is the input data, $t$ is the diffusion time step, $c_{skip}$ and $c_{out}$ are differentiable functions with constraints $c_{skip}(\epsilon) = 1$ and $c_{out}(\epsilon)=0$, and $F_\theta$ is a neural network with weights $\theta$.
+where $$f_\theta$$ is the consistency model, $$\mathbf{x}$$ is the input data, $$t$$ is the diffusion time step, $$c_{skip}$$ and $$c_{out}$$ are differentiable functions with constraints $$c_{skip}(\epsilon) = 1$$ and $$c_{out}(\epsilon)=0$$, and $$F_\theta$$ is a neural network with weights $$\theta$$.
 
 This parameterization conditions the model to produce the same output image regardless of the time step ($t=\epsilon$ to $t=T$) used as the input, requiring that the representations produced by the reverse process all lie on the same probability flow ordinary differential equation. This enables one-step sampling from pure noise directly to the generated image, with few-step sampling for higher quality results.
 
