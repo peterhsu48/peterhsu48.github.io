@@ -23,35 +23,45 @@ I am interested in creating artificial intelligence systems to advance healthcar
 
 Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people/rxb) and [Dr. Kianoush Falahkheirkhah](https://www.linkedin.com/in/kianoush-falahkheirkhah).
 
-***Stain Normalization of Lymph Node Histology Images using Consistency Models*** (2024)
+<h2>Stain Normalization of Lymph Node Histology Images using Consistency Models (2024)</h2>
 
-GitHub:
+<img src="../images/consistency-stainnorm/Figure3.png" width="300"/>
 
-Summary:
+**Project Manuscript:** https://peterhsu48.github.io/consistency-stainnorm
 
-***Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation*** (2023)
+**GitHub:** https://github.com/peterhsu48/consistency-stainnorm
 
-GitHub: [https://github.com/peterhsu48/vit-densenet](https://github.com/peterhsu48/vit-densenet)
+<h2>Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation (2023)</h2>
 
-Poster:
+<img src="../images/vit-densenet/architecture.png" width="400"/>
 
-Summary:
+**Poster:** https://peterhsu48.github.io/files/PeterHsuPoster2023.pdf
 
+**GitHub:** [https://github.com/peterhsu48/vit-densenet](https://github.com/peterhsu48/vit-densenet)
 
 # Other Projects
 
-***CreAlgae: Fabrication of Sustainable Bioplastics from Algae***
+<h2>CreAlgae: Fabrication of Sustainable Bioplastics from Algae</h2>
 
-Summary:
+<img src="../images/crealgae/keychains.jpg" width="200"/>
+
+Photo Credit: Ariel Byun
+
+**Summary:** CreAlgae's goal is to create sustainable bioplastics using algae sourced from local waterways. I helped to design and prototype several bioplastics, which become one of the first products we sold to the public. The image above is our keychain product: the algae gives the keychain a dark green color and ground eggshells create a speckle effect.
 
 # Science Communication and Writing
 
 ## 3DHEALS
 
-<img src="../images/3dhealslogo.png" alt="drawing" width="200"/>
+<img src="../images/3dheals/3dhealslogo.png" alt="drawing" width="200"/>
 
 I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing, led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
 
+<img src="../images/3dheals/Biomaterials-min-2-1536x864.jpg" width="400"/>
+
+- [What are the latest advances in biomaterials for 3D bioprinting?](https://3dheals.com/what-are-the-latest-advances-in-biomaterials-for-3d-bioprinting/) 12 Sep. 2025
+- [3D Printed Pharmaceuticals](https://3dheals.com/event-recap-3d-printed-pharmaceuticals/) 18 Aug. 2025
+- [The 3D Bioprinting Frontier](https://3dheals.com/event-recap-the-3d-bioprinting-frontier/) 28 Jul. 2025
 - [Artificial Intelligence Updates For 3D Printing and Bioprinting](https://3dheals.com/event-recap-artificial-intelligence-updates-for-3d-printing-and-bioprinting/) 29 Jun. 2025 
 - [Microfluidic Devices and 3D Printing](https://3dheals.com/event-recap-microfluidic-devices-and-3d-printing/) 01 May 2025 
 - [San Francisco 3D Printing and Bioprinting for Health](https://3dheals.com/event-recap-san-francisco-3d-printing-and-bioprinting-for-health/) 05 Apr. 2025
@@ -73,4 +83,5 @@ I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger
 
 Featured work (all done in collaboration with other Ambassadors):
 <img src="../images/3DP.jpg" alt="drawing" width="300"/>
+
 [Introduction to 3D Printing and Design](../files/3DP.pdf) (Presented to elementary school students in Fall 2024)
