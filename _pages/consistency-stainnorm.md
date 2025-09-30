@@ -46,7 +46,7 @@ where $$f_\theta$$ is the consistency model, $$\mathbf{x}$$ is the input data, $
 
 This parameterization conditions the model to produce the same output image regardless of the time step ($$t=\epsilon$$ to $$t=T$$) used as the input, requiring that the representations produced by the reverse process all lie on the same probability flow ordinary differential equation. This enables one-step sampling from pure noise directly to the generated image, with few-step sampling for higher quality results.
 
-Improved consistency models (iCMs) [19] are a series of modifications to CMs to increase performance, including the use of Pseudo-Huber instead of Learned Perceptual Image Patch Similarity (LPIPS) loss. We used iCM configurations with consistency training in this work.
+Improved consistency models (iCMs) [19] are a series of modifications to CMs to increase performance, including the use of Pseudo-Huber instead of Learned Perceptual Image Patch Similarity (LPIPS) loss. We used iCM configurations in this work.
 
 <h2>Methods</h2>
 
