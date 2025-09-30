@@ -12,7 +12,6 @@ author_profile: true
 
 <h2>Introduction</h2>
 
-<img src="../images/Figure1Cropped.png"/>
 
 <h2>Prior Work</h2>
 
