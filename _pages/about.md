@@ -23,6 +23,10 @@ I am interested in creating artificial intelligence systems to advance healthcar
 
 Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people/rxb) and [Dr. Kianoush Falahkheirkhah](https://www.linkedin.com/in/kianoush-falahkheirkhah).
 
+<h2>Prostate Cancer Segmentation from Infrared Microscopy (2025)</h2>
+
+**Poster:** [https://peterhsu48.github.io/prostate](https://peterhsu48.github.io/prostate)
+
 <h2>Stain Normalization of Lymph Node Histology Images using Consistency Models (2024)</h2>
 
 <img src="../images/consistency-stainnorm/Figure3.png" width="500"/>
@@ -41,7 +45,7 @@ Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people
 
 # Other Projects
 
-<h2>CreAlgae: Fabrication of Sustainable Bioplastics from Algae</h2>
+<h2>CreAlgae: Fabrication of Sustainable Bioplastics from Algae (2022)</h2>
 
 <img src="../images/crealgae/keychains.jpg" width="300"/>
 
