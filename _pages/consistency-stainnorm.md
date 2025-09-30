@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h1 style="text-align: center;">Stain Normalization of Lymph Node Histology Images using Consistency Models</h1>
-<p style="text-align: center;">Peter Hsu, Kianoush Falahkeirhkah, Rohit Bhargava</p>
+<p style="text-align: center;">Peter Hsu, Kianoush Falahkheirkhah, Rohit Bhargava</p>
 <p style="text-align: center;">University of Illinois Urbana-Champaign</p>
 <p style="text-align: center;">Fall 2023 – Spring 2024</p>
 

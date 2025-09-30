@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h1 style="text-align: center;">Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation</h1>
-<p style="text-align: center;">Peter Hsu, Kianoush Falahkeirhkah, Rohit Bhargava</p>
+<p style="text-align: center;">Peter Hsu, Kianoush Falahkheirkhah, Rohit Bhargava</p>
 <p style="text-align: center;">University of Illinois Urbana-Champaign</p>
 <p style="text-align: center;">Fall 2022 - Spring 2023</p>
 
