@@ -40,9 +40,9 @@ Application of diffusion models to stain normalization is relatively new. StainD
 
 Consistency models (CM) [4] address the slow speeds of diffusion models by using one or a few reverse process sampling steps instead of hundreds to thousands of steps. Song et al. parameterize CMs as
 
-$$f_\theta(\bold{x},t)=c_{skip}(t)\bold{x}+c_{out}(t)F_\theta(\bold{x},t)$$
+$$f_\theta(\mathbf{x},t)=c_{skip}(t)\mathbf{x}+c_{out}(t)F_\theta(\mathbf{x},t)$$
 
-where $f_\theta$ is the consistency model, $\bold{x}$ is the input data, $t$ is the diffusion time step, $c_{skip}$ and $c_{out}$ are differentiable functions with constraints $c_{skip}(\epsilon) = 1$ and $c_{out}(\epsilon)=0$, and $F_\theta$ is a neural network with weights $\theta$.
+where \\f_\theta\\ is the consistency model, $\mathbf{x}$ is the input data, $t$ is the diffusion time step, $c_{skip}$ and $c_{out}$ are differentiable functions with constraints $c_{skip}(\epsilon) = 1$ and $c_{out}(\epsilon)=0$, and $F_\theta$ is a neural network with weights $\theta$.
 
 This parameterization conditions the model to produce the same output image regardless of the time step ($t=\epsilon$ to $t=T$) used as the input, requiring that the representations produced by the reverse process all lie on the same probability flow ordinary differential equation. This enables one-step sampling from pure noise directly to the generated image, with few-step sampling for higher quality results.
 
@@ -216,7 +216,7 @@ This work shows that consistency models offer a promising new avenue for address
 
 <h2>Data Availability</h2>
 
-Code for the modified CMs is available at https://github.com/peterhsu48/consistency-stainnorm, which was based on the code from https://github.com/openai/consistency_models. STST was implemented using code from https://github.com/pegahsalehi/Stain-to-Stain-Translation, and SAASN was implemented from https://github.com/4m4n5/saasn-stain-normalization. DDPMs were trained using code from https://github.com/ermongroup/ddim/tree/main with DPM-Solver from https://github.com/LuChengTHU/dpm-solver. The Camelyon17-WILDS dataset can be found at https://wilds.stanford.edu. 
+Code for the modified CMs is available at [https://github.com/peterhsu48/consistency-stainnorm](https://github.com/peterhsu48/consistency-stainnorm), which was based on the code from [https://github.com/openai/consistency_models](https://github.com/openai/consistency_models). STST was implemented using code from [https://github.com/pegahsalehi/Stain-to-Stain-Translation](https://github.com/pegahsalehi/Stain-to-Stain-Translation), and SAASN was implemented from [https://github.com/4m4n5/saasn-stain-normalization](https://github.com/4m4n5/saasn-stain-normalization). DDPMs were trained using code from [https://github.com/ermongroup/ddim/tree/main](https://github.com/ermongroup/ddim/tree/main) with DPM-Solver from [https://github.com/LuChengTHU/dpm-solver](https://github.com/LuChengTHU/dpm-solver). The Camelyon17-WILDS dataset can be found at [https://wilds.stanford.edu](https://wilds.stanford.edu). 
 
 <h2>Acknowledgements</h2>
 

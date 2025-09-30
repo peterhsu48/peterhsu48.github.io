@@ -27,15 +27,15 @@ Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people
 
 <img src="../images/consistency-stainnorm/Figure3.png" width="300"/>
 
-**Project Manuscript:** https://peterhsu48.github.io/consistency-stainnorm
+**Project Manuscript:** [https://peterhsu48.github.io/consistency-stainnorm](https://peterhsu48.github.io/consistency-stainnorm)
 
-**GitHub:** https://github.com/peterhsu48/consistency-stainnorm
+**GitHub:** [https://github.com/peterhsu48/consistency-stainnorm](https://github.com/peterhsu48/consistency-stainnorm)
 
 <h2>Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation (2023)</h2>
 
 <img src="../images/vit-densenet/architecture.png" width="400"/>
 
-**Poster:** https://peterhsu48.github.io/files/PeterHsuPoster2023.pdf
+**Poster:** [https://peterhsu48.github.io/vit-densenet](https://peterhsu48.github.io/vit-densenet)
 
 **GitHub:** [https://github.com/peterhsu48/vit-densenet](https://github.com/peterhsu48/vit-densenet)
 
