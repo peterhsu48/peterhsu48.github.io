@@ -25,7 +25,7 @@ Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people
 
 <h2>Stain Normalization of Lymph Node Histology Images using Consistency Models (2024)</h2>
 
-<img src="../images/consistency-stainnorm/Figure3.png" width="300"/>
+<img src="../images/consistency-stainnorm/Figure3.png" width="500"/>
 
 **Project Manuscript:** [https://peterhsu48.github.io/consistency-stainnorm](https://peterhsu48.github.io/consistency-stainnorm)
 
@@ -33,7 +33,7 @@ Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people
 
 <h2>Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation (2023)</h2>
 
-<img src="../images/vit-densenet/architecture.png" width="400"/>
+<img src="../images/vit-densenet/architecture.png" width="700"/>
 
 **Poster:** [https://peterhsu48.github.io/vit-densenet](https://peterhsu48.github.io/vit-densenet)
 
@@ -43,7 +43,7 @@ Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people
 
 <h2>CreAlgae: Fabrication of Sustainable Bioplastics from Algae</h2>
 
-<img src="../images/crealgae/keychains.jpg" width="200"/>
+<img src="../images/crealgae/keychains.jpg" width="300"/>
 
 Photo Credit: Ariel Byun
 
@@ -57,7 +57,7 @@ Photo Credit: Ariel Byun
 
 I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing, led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
 
-<img src="../images/3dheals/Biomaterials-min-2-1536x864.jpg" width="400"/>
+<img src="../images/3dheals/Biomaterials-min-2-1536x864.jpg" width="600"/>
 
 - [What are the latest advances in biomaterials for 3D bioprinting?](https://3dheals.com/what-are-the-latest-advances-in-biomaterials-for-3d-bioprinting/) 12 Sep. 2025
 - [3D Printed Pharmaceuticals](https://3dheals.com/event-recap-3d-printed-pharmaceuticals/) 18 Aug. 2025
@@ -82,6 +82,6 @@ I am the Editorial Intern for 3DHEALS, a community that connects innovators and 
 I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger.illinois.edu/), a professional outreach program that provides engaging, hands-on presentations and activities on engineering topics to K-12 students in the Champaign County area. I have developed technical communication and teaching skills thanks to this program and represented our chapter at the [Engineering Ambassadors Network conference](https://www.engineeringambassadorsnetwork.org/) in 2025. Advised by [Dr. Jenny Amos](https://bioengineering.illinois.edu/people/jamos) and [Joan Brown](https://www.linkedin.com/in/joan-brown-73738215a).
 
 Featured work (all done in collaboration with other Ambassadors):
-<img src="../images/3DP.jpg" alt="drawing" width="300"/>
+<img src="../images/3DP.jpg" alt="drawing" width="500"/>
 
 [Introduction to 3D Printing and Design](../files/3DP.pdf) (Presented to elementary school students in Fall 2024)

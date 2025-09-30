@@ -44,7 +44,7 @@ $$f_\theta(\mathbf{x},t)=c_{skip}(t)\mathbf{x}+c_{out}(t)F_\theta(\mathbf{x},t)$
 
 where $$f_\theta$$ is the consistency model, $$\mathbf{x}$$ is the input data, $$t$$ is the diffusion time step, $$c_{skip}$$ and $$c_{out}$$ are differentiable functions with constraints $$c_{skip}(\epsilon) = 1$$ and $$c_{out}(\epsilon)=0$$, and $$F_\theta$$ is a neural network with weights $$\theta$$.
 
-This parameterization conditions the model to produce the same output image regardless of the time step ($t=\epsilon$ to $t=T$) used as the input, requiring that the representations produced by the reverse process all lie on the same probability flow ordinary differential equation. This enables one-step sampling from pure noise directly to the generated image, with few-step sampling for higher quality results.
+This parameterization conditions the model to produce the same output image regardless of the time step ($$t=\epsilon$$ to $$t=T$$) used as the input, requiring that the representations produced by the reverse process all lie on the same probability flow ordinary differential equation. This enables one-step sampling from pure noise directly to the generated image, with few-step sampling for higher quality results.
 
 Improved consistency models (iCMs) [19] are a series of modifications to CMs to increase performance, including the use of Pseudo-Huber instead of Learned Perceptual Image Patch Similarity (LPIPS) loss. We used iCM configurations with consistency training in this work.
 
@@ -62,7 +62,7 @@ The Camelyon17-WILDS dataset [3] consists of 96-by-96-pixel image patches of lym
 
 $$\mathrm{NMI}(I)=\frac{\mathrm{Median}\lbrace U(i) | i \in I \rbrace}{P_{95}\lbrace U(i) | i \in I \rbrace}$$
 
-where $I$ is the image, $U(i)$ is the average of the red, green, and blue values at pixel $i$, and $P_{95}$ is the 95th percentile. The standard deviation (SD) and standard deviation divided by the mean (CV) were calculated where lower values indicate higher color consistency.
+where $$I$$ is the image, $$U(i)$$ is the average of the red, green, and blue values at pixel $$i$$, and $$P_{95}$$ is the 95th percentile. The standard deviation (SD) and standard deviation divided by the mean (CV) were calculated where lower values indicate higher color consistency.
 
 *Nuclei color distance.* Following [24], nuclei color distance measures how different the nuclei colors are between the target and normalized source domains. The mean RGB values of the segmented nuclei were calculated for each domain, and the Euclidean distance was calculated.
 
@@ -72,7 +72,7 @@ where $I$ is the image, $U(i)$ is the average of the red, green, and blue values
 
 $$\phi_c(n,t) = \frac{1}{9} \sqrt{\sum_{j \in \lbrace 10,...,90 \rbrace} (n_j - t_j)^2} $$
 
-where $n_j$ and $t_j$ are the pixel intensity values for the j-th percentile averaged across the normalized and target domains, respectively. $c$ indicates that $\phi$ was computed on each channel (R, G, B) individually, and then $\phi_R$, $\phi_G$, and $\phi_B$ are averaged to get the final metric value.
+where $$n_j$$ and $$t_j$$ are the pixel intensity values for the j-th percentile averaged across the normalized and target domains, respectively. $$c$$ indicates that $$\phi$$ was computed on each channel (R, G, B) individually, and then $$\phi_R$$, $$\phi_G$$, and $$\phi_B$$ are averaged to get the final metric value.
 
 *Classification accuracy.* A DenseNet-161 architecture with pre-trained ImageNet weights from PyTorch [28] was used. Binary classification accuracy for the presence of cancer was computed. An Adam optimizer was used at a learning rate of 1 x 10-3, weight decay of 1 x 10-2, and momentum of 0.9 with binary cross entropy loss for 5 epochs of batch size 16.
 
@@ -104,7 +104,7 @@ In our preliminary studies, we performed stain normalization using a DDPM with S
 
 <h3>DDPMs and CMs Resulted in Structure-Preserving Stain Normalization</h3>
 
-**Fig. 4** shows a sample of source domain images before (**Fig. 4A**) and after (**Fig. 4B-I**) stain normalization. The baseline methods were GAN-based approaches STST (**Fig. 4B**) and SAASN (**Fig. 4C**). DDPMs were tested with 10 (**Fig. 4D**) and 15 (**Fig. 4E**) reverse process steps. CM (Pure Noise) was the baseline CM model that starts the beginning of the reverse process ($t=0$) with pure Gaussian noise as the input RGB channels and the grayscale version of the source domain image concatenated (**Fig. 4F**). CM (x-y-z) represents models in which the sequence of reverse process time steps taken is t=x, t=y, then t=z (**Fig. 4G-I**).
+**Fig. 4** shows a sample of source domain images before (**Fig. 4A**) and after (**Fig. 4B-I**) stain normalization. The baseline methods were GAN-based approaches STST (**Fig. 4B**) and SAASN (**Fig. 4C**). DDPMs were tested with 10 (**Fig. 4D**) and 15 (**Fig. 4E**) reverse process steps. CM (Pure Noise) was the baseline CM model that starts the beginning of the reverse process ($$t=0$$) with pure Gaussian noise as the input RGB channels and the grayscale version of the source domain image concatenated (**Fig. 4F**). CM (x-y-z) represents models in which the sequence of reverse process time steps taken is t=x, t=y, then t=z (**Fig. 4G-I**).
 
 <img src="../images/consistency-stainnorm/Figure4.png"/>
 
@@ -165,7 +165,7 @@ In **Table 3**, the DDPMs, CM (5-7-10), and CM (2-6-10) achieved better edge pre
 
 <h3>Repeated Early Timesteps with CMs Achieved Highest Classification Performance</h3>
 
-**Table 4** shows the classification accuracy of the approaches. All normalization methods improve classification accuracy compared to using no normalization (Identity), further reinforcing the utility of stain normalization. Only the CMs with the earlier timesteps of $t=2$ attain higher accuracies compared to STST and SAASN, with CM (2-6-10) and CM (2-2-10) improving accuracy by about 5% and 8%, respectively, compared to SAASN.
+**Table 4** shows the classification accuracy of the approaches. All normalization methods improve classification accuracy compared to using no normalization (Identity), further reinforcing the utility of stain normalization. Only the CMs with the earlier timesteps of $$t=2$$ attain higher accuracies compared to STST and SAASN, with CM (2-6-10) and CM (2-2-10) improving accuracy by about 5% and 8%, respectively, compared to SAASN.
 
 |                 | Classification accuracy (%) |
 |-----------------|-----------------------------|
@@ -206,7 +206,7 @@ Inspired by [31] and [32], concatenation of the input RGB image with its graysca
 
 CMs (2-2-10) achieved competitive color distances compared to the other approaches, obtaining the second-best color distances in several categories (**Table 1**). However, there was no clear superior normalization technique from evaluating the color distance metrics alone. CM (Pure Noise) had the best NMI scores (**Table 2**), but this was likely due to the lack of red hues in the normalized images, which created images with consistent colors but lacked the expected color variation seen in the other normalized images. STST obtained the second-best NMI scores, suggesting that GAN-based approaches may still offer advantages compared to DDPMs and CMs. The edge preservation metric revealed that the use of more Gaussian noise, as seen with CM (2-2-10), may result in worse structure preservation, potentially due to the noise destroying the input structural information (**Table 3**). However, this reduction in edge preservation may be negligible given that major histological structures were largely maintained from visual inspection of **Fig. 4**.
 
-CM (2-2-10) and CM (2-6-10) achieved the first and second highest classification accuracies, respectively. This suggests that the use of earlier timesteps ($t=2$) and their repetition may be beneficial for classification performance. The addition of more Gaussian noise through earlier timesteps removes more of the original source domain image information, enabling the model to make greater changes to the input images to fill in the lost information. Such changes may result in the generation of images closer to the target domain, which is supported by observations on natural images [30]. However, the input RGB information is still critical and cannot be completely replaced with Gaussian noise, as seen by the unrealistic outputs of CM (Pure Noise).
+CM (2-2-10) and CM (2-6-10) achieved the first and second highest classification accuracies, respectively. This suggests that the use of earlier timesteps ($$t=2$$) and their repetition may be beneficial for classification performance. The addition of more Gaussian noise through earlier timesteps removes more of the original source domain image information, enabling the model to make greater changes to the input images to fill in the lost information. Such changes may result in the generation of images closer to the target domain, which is supported by observations on natural images [30]. However, the input RGB information is still critical and cannot be completely replaced with Gaussian noise, as seen by the unrealistic outputs of CM (Pure Noise).
 
 CMs achieved faster normalization times compared to DDPMs and comparable times to the GAN-based SAASN, which is supported by the ability of CMs to perform few-step sampling due to the consistency parameterizations [4]. Fast normalization approaches will be critical for pre-processing large-scale histology datasets. Future work should focus on improving the speed of deep learning normalization approaches.
 
