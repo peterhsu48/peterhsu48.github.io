@@ -63,6 +63,8 @@ I am the Editorial Intern for 3DHEALS, a community that connects innovators and 
 
 <img src="../images/3dheals/Biomaterials-min-2-1536x864.jpg" width="600"/>
 
+- [What are the latest updates in 3D technologies for pediatric cardiology?](https://3dheals.com/what-are-the-latest-updates-in-3d-technologies-for-pediatric-cardiology/) 20 Nov. 2025
+- [Where is 3D printing for orthotics and prosthetics (O&P) headed next?](https://3dheals.com/where-is-3d-printing-for-orthotics-and-prosthetics-op-headed-next/) 14 Nov. 2025
 - [What are the latest advances in biomaterials for 3D bioprinting?](https://3dheals.com/what-are-the-latest-advances-in-biomaterials-for-3d-bioprinting/) 12 Sep. 2025
 - [3D Printed Pharmaceuticals](https://3dheals.com/event-recap-3d-printed-pharmaceuticals/) 18 Aug. 2025
 - [The 3D Bioprinting Frontier](https://3dheals.com/event-recap-the-3d-bioprinting-frontier/) 28 Jul. 2025
