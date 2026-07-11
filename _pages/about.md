@@ -1,0 +1,88 @@
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Hello! I received my Bachelor's degree in Bioengineering at the University of Illinois Urbana-Champaign with a minor in Computer Science.
+
+I am interested in creating artificial intelligence systems to advance healthcare and accelerate biomedical discoveries. Specifically, I have developed computational tools and AI algorithms for cancer diagnosis on histopathology images. I enjoy working on improving the robustness of AI models on diverse, multi-institutional patient cohorts and enhancing the trustworthiness of automated diagnoses.
+
+# Academic Interests
+- Biomedical AI
+- Computational modeling of diseases
+- Out-of-distribution shifts
+- Histopathology, spatial transcriptomics
+- Cell and tissue engineering
+- 3D bioprinting
+
+# Research Projects
+
+Advised by [Professor Rohit Bhargava](https://bioengineering.illinois.edu/people/rxb) and [Dr. Kianoush Falahkheirkhah](https://www.linkedin.com/in/kianoush-falahkheirkhah).
+
+<h2>Stain Normalization of Lymph Node Histology Images using Consistency Models (2024)</h2>
+
+<img src="../images/consistency-stainnorm/Figure3.png" width="500"/>
+
+**Project Manuscript:** [https://peterhsu48.github.io/consistency-stainnorm](https://peterhsu48.github.io/consistency-stainnorm)
+
+**GitHub:** [https://github.com/peterhsu48/consistency-stainnorm](https://github.com/peterhsu48/consistency-stainnorm)
+
+<h2>Designing a Machine Learning Architecture for Cancer Detection in Histological Images to Address Inter-Hospital Variation (2023)</h2>
+
+<img src="../images/vit-densenet/architecture.png" width="700"/>
+
+**Poster:** [https://peterhsu48.github.io/vit-densenet](https://peterhsu48.github.io/vit-densenet)
+
+**GitHub:** [https://github.com/peterhsu48/vit-densenet](https://github.com/peterhsu48/vit-densenet)
+
+# Other Projects
+
+<h2>CreAlgae: Fabrication of Sustainable Bioplastics from Algae (2022)</h2>
+
+**Summary:** CreAlgae's goal is to create sustainable bioplastics using algae sourced from local waterways. I helped to design and prototype several bioplastics, which become one of the first products we sold to the public.
+
+# Science Communication and Writing
+
+## 3DHEALS
+
+<img src="../images/3dheals/3dhealslogo.png" alt="drawing" width="200"/>
+
+I am the Editorial Intern for 3DHEALS, a community that connects innovators and early adopters in healthcare 3D printing, led by [Dr. Jenny Chen](https://www.linkedin.com/in/jenzhao). I write articles and create video content on our latest events featuring academic, industry, and clinical leaders.
+
+<img src="../images/3dheals/Biomaterials-min-2-1536x864.jpg" width="600"/>
+
+- [Event Recap: Advancing 3D Surgical Planning](https://3dheals.com/event-recap-advancing-3d-surgical-planning/) 04 Jun. 2026
+- [Communicating Your Science in the Bioprinting Space](https://3dheals.com/communicating-your-science-in-the-bioprinting-space/) 27 Apr. 2026
+- [What are the latest design innovations in healthcare 3D printing?](https://3dheals.com/what-are-the-latest-design-innovations-in-healthcare-3d-printing/) 27 Dec. 2025
+- [What are the latest updates in 3D technologies for pediatric cardiology?](https://3dheals.com/what-are-the-latest-updates-in-3d-technologies-for-pediatric-cardiology/) 20 Nov. 2025
+- [Where is 3D printing for orthotics and prosthetics (O&P) headed next?](https://3dheals.com/where-is-3d-printing-for-orthotics-and-prosthetics-op-headed-next/) 14 Nov. 2025
+- [What are the latest advances in biomaterials for 3D bioprinting?](https://3dheals.com/what-are-the-latest-advances-in-biomaterials-for-3d-bioprinting/) 12 Sep. 2025
+- [3D Printed Pharmaceuticals](https://3dheals.com/event-recap-3d-printed-pharmaceuticals/) 18 Aug. 2025
+- [The 3D Bioprinting Frontier](https://3dheals.com/event-recap-the-3d-bioprinting-frontier/) 28 Jul. 2025
+- [Artificial Intelligence Updates For 3D Printing and Bioprinting](https://3dheals.com/event-recap-artificial-intelligence-updates-for-3d-printing-and-bioprinting/) 29 Jun. 2025 
+- [Microfluidic Devices and 3D Printing](https://3dheals.com/event-recap-microfluidic-devices-and-3d-printing/) 01 May 2025 
+- [San Francisco 3D Printing and Bioprinting for Health](https://3dheals.com/event-recap-san-francisco-3d-printing-and-bioprinting-for-health/) 05 Apr. 2025
+- [3D Printing for Veterinarian Medicine](https://3dheals.com/event-recap-3d-printing-for-veterinarian-medicine/) 29 Mar. 2025
+- [3D Printed Devices In Orthopedics](https://3dheals.com/event-recap-3d-printed-devices-in-orthopedics/) 06 Mar. 2025
+- [Revolutionizing Pet Care With 3D](https://3dheals.com/event-recap-revolutionizing-pet-care-with-3d/) 08 Sep. 2024
+- [3D Microfabrication](https://3dheals.com/event-recap-3d-microfabrication/) 15 Aug. 2024
+- [3D Bioprinting Biofabricating Skin Components](https://3dheals.com/event-recap-3d-bioprinting-biofabricating-skin-components/) 01 Aug. 2024
+- [Point of Care 3D Printing](https://3dheals.com/event-recap-point-of-care-3d-printing/) 25 Jul. 2024
+- [3D Printing and AI in Orthopedics](https://3dheals.com/event-recap-3d-printing-and-ai-in-orthopedics/) 13 Jul. 2024
+- [In Silico Simulation for Medtech and Biopharma](https://3dheals.com/event-recap-in-silico-simulation-for-medtech-and-biopharma/) 04 Jul. 2024
+- [Innovation in Melt-Electrowriting (MEW) & 3D Printing](https://3dheals.com/event-recap-innovation-in-melt-electrowriting-mew-3d-printing/) 15 Jun. 2024
+
+## Engineering Ambassadors
+
+<img src="../images/ealogo.jpg" alt="drawing" width="200"/>
+
+I am part of the [Illinois Engineering Ambassadors](https://ambassadors.grainger.illinois.edu/), a professional outreach program that provides engaging, hands-on presentations and activities on engineering topics to K-12 students in the Champaign County area. I have developed technical communication and teaching skills thanks to this program and represented our chapter at the [Engineering Ambassadors Network conference](https://www.engineeringambassadorsnetwork.org/) in 2025. Advised by [Dr. Jenny Amos](https://bioengineering.illinois.edu/people/jamos) and [Joan Brown](https://www.linkedin.com/in/joan-brown-73738215a).
+
+Featured work (all done in collaboration with other Ambassadors):
+<img src="../images/3DP.jpg" alt="drawing" width="500"/>
+
+[Introduction to 3D Printing and Design](../files/3DP.pdf) (Presented to elementary school students in Fall 2024)
